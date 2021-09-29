@@ -27,12 +27,12 @@
 
 	<distributionManagement>
 		<repository>
-			<id>release</id>
+			<id>central</id>
 			<name>releases</name>
 			<url>http://172.17.0.3:8081/artifactory/libs-release-local</url>
 		</repository>
 		<snapshotRepository>
-			<id>snapshot</id>
+			<id>snapshots</id>
 			<name>snapshots</name>
 			<url>http://172.17.0.3:8081/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
